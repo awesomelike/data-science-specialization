@@ -1,0 +1,1 @@
+**Amayasoft AI Course**. Azamat Abdullaev
