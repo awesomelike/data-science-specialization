@@ -1,1 +1,1 @@
-**Amayasoft AI Course**. Azamat Abdullaev
+**Personal AI Research in Python**. Azamat Abdullaev
